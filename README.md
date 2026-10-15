@@ -11,7 +11,7 @@ I care about **readable code**, **clear documentation** and **getting the securi
 ## 💼 Experience
 
 - **Full Stack Development Intern** — Infurnia Technologies
-- **Intern** — Optiflux
+- **Software Developer Intern** — Optiflux
 
 ---
 
