@@ -17,6 +17,10 @@ I care about **readable code**, **clear documentation** and **getting the securi
 
 ## 🚀 Featured Projects
 
+**[Cloutcraft](https://github.com/Krigoy/cloutcraft)**<br>
+Self-hosted creator analytics platform that connects YouTube, Twitch and TikTok, estimates earnings per video/Short/stream as a low-mid-high band, tracks view velocity over time, monitors live Twitch streams in real time, and surfaces deterministic insights plus an AI growth coach (Gemini, Groq, Claude or local Ollama) — all without sending credentials to any third party.<br>
+`Next.js` `TypeScript` `Tailwind CSS` `Gemini API` `YouTube Analytics API` `Twitch Helix` `TikTok API`
+
 **[Beam — Real-time Chat & Video](https://github.com/Krigoy/Telegram-2.0-clone)**<br>
 Telegram-style messaging app with one-to-one and group chats, threads, and video calls with screen sharing. Clerk handles auth, Convex stores and searches users, and Stream powers chat and video; access tokens are issued server-side for the signed-in user only.<br>
 `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `shadcn/ui` `Clerk` `Convex` `Stream`
